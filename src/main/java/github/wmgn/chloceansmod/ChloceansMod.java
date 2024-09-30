@@ -1,11 +1,12 @@
 package github.wmgn.chloceansmod;
 
+import github.wmgn.chloceansmod.block.ModBlocks;
+import github.wmgn.chloceansmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-// test comment change for github
 public class ChloceansMod implements ModInitializer {
 	public static final String MOD_ID = "chloceansmod";
 
@@ -21,5 +22,8 @@ public class ChloceansMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

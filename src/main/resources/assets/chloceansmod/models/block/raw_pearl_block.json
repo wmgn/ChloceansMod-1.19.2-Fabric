@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "chloceansmod:block/raw_pearl_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "chloceansmod:pearl_block",
+    "chloceansmod:raw_pearl_block",
+    "chloceansmod:raw_pearl_ore",
+    "chloceansmod:deepslate_raw_pearl_ore"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "item.chloceansmod.raw_pearl": "Raw Pearl",
+  "item.chloceansmod.pearl": "Pearl",
+  "block.chloceansmod.pearl_block": "Block of Pearl",
+  "block.chloceansmod.raw_pearl_block": "Block of Raw Pearl",
+  "block.chloceansmod.raw_pearl_ore": "Raw Pearl Ore",
+  "block.chloceansmod.deepslate_raw_pearl_ore": "Deepslate Raw Pearl Ore",
+
+  "itemGroup.chloceansmod.pearl": "Chloceans"
+}

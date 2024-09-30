@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chloceansmod:raw_pearl"
+    }
+  },
+  "result": {
+    "item": "chloceansmod:raw_pearl_block"
+  }
+}
