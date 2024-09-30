@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "chloceansmod",
+	"version": "${version}",
+	"name": "Chloceans Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"wmgn"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/chloceansmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"github.wmgn.chloceansmod.ChloceansMod"
+		],
+		"client": [
+			"github.wmgn.chloceansmod.ChloceansModClient"
+		],
+		"fabric-datagen": [
+			"github.wmgn.chloceansmod.ChloceansModDataGenerator"
+		]
+	},
+	"mixins": [
+		"chloceansmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
