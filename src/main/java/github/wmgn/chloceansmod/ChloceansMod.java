@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+// test comment change for github
 public class ChloceansMod implements ModInitializer {
 	public static final String MOD_ID = "chloceansmod";
 
