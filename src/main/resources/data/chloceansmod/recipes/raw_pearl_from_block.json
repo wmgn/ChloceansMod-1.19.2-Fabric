@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chloceansmod:raw_pearl_block"
+    }
+  ],
+  "result": {
+    "item": "chloceansmod:raw_pearl",
+    "count": 9
+  }
+}

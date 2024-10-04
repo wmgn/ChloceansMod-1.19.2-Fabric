@@ -5,6 +5,9 @@
   "block.chloceansmod.raw_pearl_block": "Block of Raw Pearl",
   "block.chloceansmod.raw_pearl_ore": "Raw Pearl Ore",
   "block.chloceansmod.deepslate_raw_pearl_ore": "Deepslate Raw Pearl Ore",
+  "item.chloceansmod.giantclam_spawn_egg": "Giant Clam Spawn Egg",
+  "container.giant_clam": "Giant Clam",
 
-  "itemGroup.chloceansmod.pearl": "Chloceans"
+  "itemGroup.chloceansmod.pearl": "Chloceans",
+  "clam.not_open": "The clam is not open right now!"
 }
